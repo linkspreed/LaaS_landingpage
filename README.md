@@ -1,4 +1,4 @@
-# <img align="left" alt="Linkspreed" width="100px" src="https://laas.ml/assets/img/logos/logo/bulkit-core.svg" draggable="false" /> Linkspreed ([Click to try 🚀](https://www.linkspreed.com/))
+# <img align="left" alt="Linkspreed" width="200px" src="https://laas.ml/assets/img/logos/logo/bulkit-core.svg" draggable="false" /> ([Click to try 🚀](https://laas.ml/))
 
 Linkspreed 🧡 - the heart and core of our projects 🚀- the largest social network 🌱that is oriented towards the future✨
 
